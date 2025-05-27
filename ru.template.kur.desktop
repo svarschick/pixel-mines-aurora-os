@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=ru.template.kur
+Exec=/usr/bin/ru.template.kur
+Name=Template
+Name[ru]=Шаблон
+
+[X-Application]
+Permissions=Audio
+OrganizationName=ru.template
+ApplicationName=kur
+ExecDBus=/usr/bin/ru.template.kur
